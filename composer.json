@@ -6,6 +6,7 @@
     },
     "type": "magento2-module",
     "version": "v1.0.3",
+    "license": "(LGPL-2.1 or GPL-3.0+)",
     "minimum-stability": "dev",
     "extra": {
         "map": [
