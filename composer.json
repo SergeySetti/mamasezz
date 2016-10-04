@@ -6,6 +6,7 @@
     },
     "type": "magento2-module",
     "version": "v1.0.3",
+    "minimum-stability": "dev" 
     "extra": {
         "map": [
             [
