@@ -5,7 +5,7 @@
         "magento/framework": "~100.1.0"
     },
     "type": "magento2-module",
-    "version": "v1.0.3",
+    "version": "v1.0.4",
     "license": "(LGPL-2.1 or GPL-3.0+)",
     "minimum-stability": "dev",
     "extra": {
